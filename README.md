@@ -9,10 +9,10 @@ Test app for fetching tweets.
 # Build
 1. In the root folder and in the client folder, input:
 
- `npm install`
+   `npm install`
 
 2. In the config.js file found in the root directory, input your API consumer and secret (access token and secret can be optional).
 
 3. In the root folder, input:
 
- `npm start`
+   `npm start`
